@@ -1,2 +1,11 @@
-# Investment-portfolio-analysis
-Analiza portfela inwestycyjnego obejmująca różne klasy aktywów. Projekt zawiera statystykę opisową, analizę ryzyka i stóp zwrotu, korelacje oraz budowę portfeli o minimalnym ryzyku i maksymalnej efektywności. Wnioski wspierają decyzje inwestycyjne.
+
+Projekt analizy portfela inwestycyjnego obejmujący różne klasy aktywów.
+
+## Zakres:
+- analiza stóp zwrotu i ryzyka
+- statystyka opisowa
+- analiza korelacji
+- budowa portfeli inwestycyjnych
+
+## Wnioski:
+Projekt pokazuje, jak dywersyfikacja wpływa na ryzyko i efektywność inwestycji.
